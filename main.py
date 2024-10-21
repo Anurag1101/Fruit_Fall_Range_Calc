@@ -46,7 +46,7 @@ if __name__ == '__main__':
     s = int(first_multiple_input[0])  # Start point of the house
     t = int(first_multiple_input[1])  # End point of the house
 
-    # Input the positions of the apple tree (a) and the orange tree (b)
+    # Input the positions of the Apple tree (a) and the Orange tree (b)
     second_multiple_input = input("Enter the position of the apple tree (a) and the orange tree (b): ").rstrip().split()
     a = int(second_multiple_input[0])  # Position of the apple tree
     b = int(second_multiple_input[1])  # Position of the orange tree
