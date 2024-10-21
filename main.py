@@ -35,7 +35,7 @@ def countApplesAndOranges(s, t, a, b, apples, oranges):
         if s <= orange <= t:  # Check if the orange's position is within the house range
             count_orange += 1  # Increment the orange counter if the condition is true
     
-    # Print the final count of apples and oranges that landed in the house range
+    # Print the final count of Apples and Oranges that landed in the house range
     print(count_apple)
     print(count_orange)
 
