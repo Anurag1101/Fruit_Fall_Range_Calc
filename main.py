@@ -62,5 +62,5 @@ if __name__ == '__main__':
     # Input the distances each orange falls from the orange tree
     oranges = list(map(int, input(f"Enter the distances of {n} oranges: ").rstrip().split()))
 
-    # Call the function to count how many apples and oranges land in the house range
+    # Call the function to count how many Apples and Oranges land in the house range
     countApplesAndOranges(s, t, a, b, apples, oranges)
