@@ -7,7 +7,7 @@ import sys
 
 # Function to count Apples and Oranges that fall within the house range
 def countApplesAndOranges(s, t, a, b, apples, oranges):
-    # Initialize lists to store the final positions of apples and oranges
+    # Initialize lists to store the final positions of Apples and Oranges
     apple_pos = []
     orange_pos = []
     
