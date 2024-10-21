@@ -53,7 +53,7 @@ if __name__ == '__main__':
 
     # Input the number of apples (m) and oranges (n) thrown
     third_multiple_input = input("Enter the number of apples (m) and oranges (n): ").rstrip().split()
-    m = int(third_multiple_input[0])  # Number of apples
+    m = int(third_multiple_input[0])  # Number of Apples
     n = int(third_multiple_input[1])  # Number of oranges
 
     # Input the distances each apple falls from the apple tree
