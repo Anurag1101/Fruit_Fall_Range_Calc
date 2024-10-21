@@ -56,10 +56,10 @@ if __name__ == '__main__':
     m = int(third_multiple_input[0])  # Number of Apples
     n = int(third_multiple_input[1])  # Number of Oranges
 
-    # Input the distances each apple falls from the apple tree
+    # Input the distances each Apple falls from the Apple tree
     apples = list(map(int, input(f"Enter the distances of {m} apples: ").rstrip().split()))
 
-    # Input the distances each orange falls from the orange tree
+    # Input the distances each Orange falls from the Orange tree
     oranges = list(map(int, input(f"Enter the distances of {n} oranges: ").rstrip().split()))
 
     # Call the function to count how many Apples and Oranges land in the house range
