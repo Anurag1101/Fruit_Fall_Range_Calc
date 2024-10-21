@@ -51,7 +51,7 @@ if __name__ == '__main__':
     a = int(second_multiple_input[0])  # Position of the apple tree
     b = int(second_multiple_input[1])  # Position of the orange tree
 
-    # Input the number of apples (m) and oranges (n) thrown
+    # Input the number of Apples (m) and Oranges (n) thrown
     third_multiple_input = input("Enter the number of apples (m) and oranges (n): ").rstrip().split()
     m = int(third_multiple_input[0])  # Number of Apples
     n = int(third_multiple_input[1])  # Number of Oranges
