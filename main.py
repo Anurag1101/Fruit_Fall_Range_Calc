@@ -21,7 +21,7 @@ def countApplesAndOranges(s, t, a, b, apples, oranges):
         orange_add = b + orange  # Position where orange lands = orange tree position + distance of the orange from the tree
         orange_pos.append(orange_add)  # Add the calculated position to the orange_pos list
     
-    # Initialize counters to count how many apples and oranges land in the house range
+    # Initialize counters to count how many Apples and Oranges land in the house range
     count_apple = 0
     count_orange = 0
     
