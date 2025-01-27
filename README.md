@@ -1,4 +1,4 @@
-**Fruit Fall Range Calculator**
+# **Fruit Fall Range Calculator**
 
 This project is a simple Python program that calculates how many apples and oranges land within a given range, representing a house. The apples and oranges are thrown from different trees located at specific positions, and their landing positions are calculated based on their distances from the trees.
 
