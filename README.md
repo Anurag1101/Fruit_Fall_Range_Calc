@@ -2,7 +2,7 @@
 
 This project is a simple Python program that calculates how many apples and oranges land within a given range, representing a house. The apples and oranges are thrown from different trees located at specific positions, and their landing positions are calculated based on their distances from the trees.
 
-**Features**:
+## **Features**:
 
 **User Input:**  The program takes user input for the house range, tree positions, and the number and distances of thrown apples and oranges.
 
